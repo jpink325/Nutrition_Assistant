@@ -1,0 +1,26 @@
+# Preproposal
+
+## What idea(s) do you have for your final project?
+
+I was thinking about combining
+a few chapters from automatetheboringstuff.com
+to potentially create a project. The first option
+might involve the combination of chapter 
+16(Keeping Time, Scheduling Tasks,and Launching Programs)
+with Chapter 20(Controlling the Keyboard and Mouse with GUI Automation). 
+The second one would deal with chapter 19(Manipulating Images)
+and Chapter 20(Controlling the Keyboard and Mouse with GUI Automation)
+Since both these ideas require the importation of third-party modules, I 
+would read up on Appendix A, which discusses the Installing of Third Party Modules
+
+
+## If you plan to collaborate with one or two classmates, what are their names?
+
+I plan on working on this project individually.
+
+## Do you have any questions of your own?
+
+I think I have an idea as to what I plan on doing. I'm not really interested in building a game or a website. 
+I'm more interested in automating a task (whether its opening a Python file and using a checker to see if all
+of the contents in that document is accurate). Another is potentially using mouse clicks to perform certain actions on a file,
+whether its an Excel Doc, Google Doc, etc. 
