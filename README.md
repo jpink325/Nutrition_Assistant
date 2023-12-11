@@ -3,6 +3,8 @@
 
 --PowerPoint Presentation Detailing the content below:
 
+https://tuprd-my.sharepoint.com/:p:/g/personal/tup16404_temple_edu/EUUxSFfXuGVPpib4ZryoSD0BuN_jhdVcEjBM7QfdcD433g
+
 Others:
 
 
