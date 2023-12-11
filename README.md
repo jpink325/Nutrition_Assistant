@@ -6,7 +6,9 @@
 Others:
 
 
-     Successful Challenges:
+
+Successful Challenges:
+
 1. Being able to successfully overcome the ValueError on the program
    
 3. To reduce redundancy, calling upon other functions (like fourEveryone()). It saved many lines of code
@@ -24,8 +26,9 @@ ended up performing my main task (what takes this even further). I effectively l
 
 
 
-     Unsuccessful Challenges:
 
+
+Unsuccessful Challenges:
 
 1. If one has multiple allergies/dietary restrictions, the algorithm does not   account for it
     --Slicing can’t account for factors like these. There were instances where I attempted to 
