@@ -42,7 +42,7 @@ Unsuccessful Challenges:
 
 
 
-   Conclusion:
+Conclusion:
 
 1. Even though my program had a few shortfalls, I believe this project greatly improved my understanding of interactions/modules when dealing with automating tasks, matching, etc. with many Python functions.
          --Lists, for-if-while conditionals, usage of functions to simplify code
