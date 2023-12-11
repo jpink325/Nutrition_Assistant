@@ -7,6 +7,16 @@ Others:
 
 
 
+Motives:
+
+
+1. The motive behind this project includes people like my parents, friends, etc. Many of us desire to achieve nutrition goals (others may not, which is okay). 
+
+   --With this, come some drawbacks, which include costs (inflation can dissuade), restrictions, having consistency, or simply a lack of knowledge. The goal of my program is to reduce this.
+
+
+
+
 Successful Challenges:
 
 1. Being able to successfully overcome the ValueError on the program
