@@ -1,2 +1,2 @@
 # Project-CIS1051-Pinkow
---An introduction to my project preposal. 
+--Video demonstrating the project details below:
