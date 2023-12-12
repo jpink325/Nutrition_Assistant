@@ -1,6 +1,10 @@
 # Project-CIS1051-Pinkow
 --Video demonstrating the project details below:
 
+https://www.loom.com/share/d2ee019b4bfb4adeb5b5cbcdd13d7e50?sid=53776b11-2833-4483-b005-b6790f4004fb
+
+*If you cannot access the video, please immediately email me @tup16404@temple.edu
+
 --PowerPoint Presentation Detailing the content below:
 
 https://tuprd-my.sharepoint.com/:p:/g/personal/tup16404_temple_edu/EUUxSFfXuGVPpib4ZryoSD0BuN_jhdVcEjBM7QfdcD433g
