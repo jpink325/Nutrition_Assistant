@@ -58,7 +58,7 @@ Unsuccessful Challenges:
 --In the print statements, the lists would end up printing “ ( ‘ ”, “ [( “,” [ ‘ ”, etc.
     I attempted to use the REGEX module to either remove these redundancies or replace them with a comma from the print statements, but I came up slightly short.
 
-
+   --I'm not going to give up with these unsucessful challenges. As my coding knowledge (especially of Python) increases, I will come back to this program and additionally modify it. One day, I will be able to understand how to implement Regex with puncuation instances (maybe even by the end of this semester). I'm taking a lot more time over the next week to familiarize myself with Regex expressions, since they're on the exam AND because of their practicality in nearly any career. 
 
 
 
