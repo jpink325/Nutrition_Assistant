@@ -23,19 +23,23 @@ Successful Challenges:
 
 1. Being able to successfully overcome the ValueError on the program
    
-3. To reduce redundancy, calling upon other functions (like fourEveryone()). It saved many lines of code
+2. To reduce redundancy, calling upon other functions (like fourEveryone()). It saved many lines of code
    
-5. Being able to account for allergies/restrictions without printing out a statement that
+3. Being able to account for allergies/restrictions without printing out a statement that
    calls for an ingredient that they are allergic to. Same goes with restrictions(vegan) and not printing anything like "You should buy milk". There might be a "if keto, you should consider" but nothing that urges themm to buy something the user is allergic to.
   
-7. Successfully being able to account for various answers, such as lowercase, etc. Some of the restrictions had similar first couple of letters (like vegetarian and vegan), which I was 
+4. Successfully being able to account for various answers, such as lowercase, etc. Some of the restrictions had similar first couple of letters (like vegetarian and vegan), which I was 
 able to adapt the code so that a vegan's input is not given a vegetarian input, etc.
 
 
-8. Successfully able to automate sending email messages. This took some lines of code,
+
+5. Successfully able to automate sending email messages. This took some lines of code,
 ended up performing my main task (what takes this even further). I effectively learned how emails from my gmail (and possibly gmails in general) are sent
 
 
+6. Successfully able to hide a password. This took me some time. If you look at GmailReminder.Survey.py, you might've noticed I imported a file called cred. This is another private file that I have on PyCharm. The reason I imported this is because it contains some confidential information. By having it stored in a secure spot, I learned that I can run code (while hiding the password) so it cannot be taken. An essential component of cybersecurity
+
+   
 
 
 
